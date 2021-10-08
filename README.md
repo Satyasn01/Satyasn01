@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently majoring in CS
 - 💞️ I’m looking to collaborate on any suitable projects!
-- 📫 How to reach me Satyasn07@gmail.com
+- 📫 How to reach me : mail~ satyasn07@gmail.com
 
 <!---
 Satyasn01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
