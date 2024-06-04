@@ -1,4 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Satya%20Subham%20Nayak%20🤠&text2=💖%20Blockchain%20Enthusiast,%20Full-Stack%20Developer%20and%20Technical%20Writer!&width=900&height=400)
+![snake gif](https://github.com/satysn01/satysn01/blob/output/github-contribution-grid-snake.svg)
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=satyasn01&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-counter" />
 
