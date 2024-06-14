@@ -41,4 +41,4 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasn01&theme=merko&hide_border=false" alt="top-langs" />
 
-![snake gif](https://github.com/Satyasn01/Satyasn01/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Satyasn01/Satyasn01/blob/output/github-contribution-grid-snake-dark.svg)
