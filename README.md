@@ -42,3 +42,4 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyasn01&theme=merko&hide_border=false" alt="top-langs" />
 
 ![snake gif](https://github.com/Satyasn01/Satyasn01/blob/output/github-contribution-grid-snake-dark.svg)
+[![An image of @satyasn01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyasn01)](https://holopin.io/@satyasn01)
