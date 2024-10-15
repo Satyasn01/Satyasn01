@@ -17,10 +17,10 @@
 </p>
 
 **About Me:**
-- 💪🏼 Leading innovation at **4N EcoTech** | Co-Founder of **FixTix** | Community Advocate at **VERSEATILE**
-- 🌱 Mastering **Advanced Smart Contract Development**
-- 💬 Talk **Blockchain, Smart Contracts, and Full-Stack Development**
-- 😂 Fun Fact: **Bats are the only mammal that can actually fly.**
+- 💪🏼 Spearheading technology initiatives and entrepreneurial ventures.
+- 🌱 Deep diving into the intricacies of blockchain technology.
+- 💬 Keen to discuss the ever-evolving world of digital innovations.
+- 😂 Fun Fact: Did you know bats are the only mammals naturally capable of sustained flight?
 - 📫 Contact: [Email](mailto:satyarocket001@gmail.com) | [LinkedIn](https://linkedin.com/in/satyasnayak)
 
 <h3 align="center">Connect with me:</h3>
